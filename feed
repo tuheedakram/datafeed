@@ -12,7 +12,7 @@
 	<atom:link href="http://Tuheed~datafeed.s3-website.GH.amazonaws.com/feed" rel="self" type="application/rss+xml" />
 	<link>http://Tuheed~datafeed.s3-website.GH.amazonaws.com</link>
 	<description>Add Meta Description Here</description>
-	<lastBuildDate>Friday, 16 October 2020 13:33:01 +0000</lastBuildDate>
+	<lastBuildDate>Friday, 16 October 2020 13:38:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -30,6 +30,20 @@
 		<description><![CDATA[Sample test post
 by
 Posted on 16-10-2020 01:33 PM
+this is the content of the post ot test the data nad we can go and see ow things are going
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
+<item>
+		<title>Sample test post  2</title>
+		<link>http://Tuheed~datafeed.s3-website.GH.amazonaws.com/SEO/Sample-test-post-2.html</link>
+		<pubDate>Friday, 16 October 2020 13:38:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">http://Tuheed~datafeed.s3-website.GH.amazonaws.com/SEO/Sample-test-post-2.html</guid> 
+		<description><![CDATA[Sample test post 2
+by
+Posted on 16-10-2020 01:38 PM
 this is the content of the post ot test the data nad we can go and see ow things are going
 ]]></description>
        <enclosure url="#" length="0" type="image" /></item>
